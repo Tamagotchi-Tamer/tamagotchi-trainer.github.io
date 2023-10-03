@@ -13,9 +13,9 @@ TBC
 Download the source code from: https://github.com/Tamagotchi-Tamer/tamagotchi_trainer
 
 Within the repository, run this command:
-'''
+```
 $ flutter run
-'''
+```
 
 ### Development Status
 The project development board can be found at: https://github.com/orgs/Tamagotchi-Tamer/projects/1
