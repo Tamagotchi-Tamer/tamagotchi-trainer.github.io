@@ -40,7 +40,7 @@ The competition selection page shows how selecting different competitions will w
 The fitness page exists to show the users overall progress toward hitting their fitness goals. For the scope of this project, we are only planning to count steps taken when measuring user's overall fitness. To this end, the fitness page has multiple tabs that can be chosen to show their daily, weekly, monthly, and yearly progress. These tabs will show their step count graphically allowing for progress to be represented visually. The package fl_charts is currently being used to create the graphs but in the future we might consider switching to the syncfusion graphing flutter package instead due to a variety of problems with the implementation of fl_charts.
 
 ## Installation
-Download the source code from: https://github.com/Tamagotchi-Trainer/tamagotchi_trainer
+Download the source code from: <https://github.com/Tamagotchi-Trainer/tamagotchi_trainer>
 
 Within the repository, run this command:
 ```
@@ -48,7 +48,7 @@ $ flutter run
 ```
 
 ## Development Status
-The project development board can be found at: https://github.com/orgs/Tamagotchi-Trainer/projects/1
+The project development board can be found at: <https://github.com/orgs/Tamagotchi-Trainer/projects/1>
 
 ## About Us
 This project has been created by Derek Nishimura, a senior undergraduate student at the University of Hawaii at Manoa.
