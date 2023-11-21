@@ -11,19 +11,19 @@ Right now, mockups of all majors pages have been implemented and work is being d
 
 ### Login Page
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-10-04 at 11 44 25](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/1259e575-705b-40ad-bdd7-a79992495fe6)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-11-21 at 09 50 05](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/462187d5-fb94-4a3d-bb32-67ed50ab0ae7)
 
-The first page new users are sent to is the login page. At the moment, the login page does not have the functionality to accept username and password but was implemented to show the intended user experience.
+The first page new users are sent to is the login page. You can register a new email if you haven't already made an account and login using that email. Currently, all authentication processes are tied to email but this mnight change in the future.
 
 ### Home Tab
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-10-04 at 11 41 44](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/d6daf803-11cb-42d0-a76c-312283170ae5)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-11-21 at 09 46 42](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/749bb192-47cb-47dd-b876-eb270a8e268d)
 
 The home page is the main page that the user is intended to land on by default. The home page while technically being one page implements multiple bodies using the bottom navbar. For convenience's sake we will consider each of these body sections as separate pages. For this body in particular, this is the screen in which the user can interact with the tamagotchi. Beyond the background, a button is implemented on the "Status" text that will take you to the page that shows the tamagotchi's status.
 
 ### Status Page
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-10-04 at 11 41 50](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/3893c77b-d9af-4af0-9d48-64e6b462c431)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-11-21 at 10 00 19](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/f1a5c01a-c90b-4249-bc52-6ccb27030927)
 
 The status page as mentioned above shows the current status for the tamagotchi. This page mainly exists to show the layout of elements on the screen. Notably, the bars on this page use the Percent Indicator package to have interactive progress bars. Further work will be done in the future to make the bars scale with the tamagotchi's stats.
 
@@ -43,9 +43,10 @@ The cosmetics page shows a tile layout for cosmetics that are able to be purchas
 
 ### Competition Selection Tab
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-10-04 at 11 41 36](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/f46a96ca-e378-4994-a81b-5fa774d42d4f)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-11-21 at 09 46 55](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/229e6877-c1fa-4e5a-beb1-0c7b8607b157)
 
-The competition selection page shows how selecting different competitions will work. Currently, the boxes are implemented using the selectable boxes package allowing, as can be inferred from the name, entire boxes to be selected. Currently the boxes are all set to one variable causing all boxes to be selected at once when one box is clicked on. In the future, this page will be improved to allow for selecting single boxes.
+
+The competition selection page shows how selecting different competitions will work. Currently, the boxes are implemented using the selectable boxes package allowing, as can be inferred from the name, entire boxes to be selected. The current implementation allows for only one of the activity boxes to be selected at any given time with the "compete" box only being able to be selected after one of the above boxes is selected.
 
 ### Friends Tab
 
@@ -69,13 +70,13 @@ The fitness page exists to show the users overall progress toward hitting their 
 
 ### Settings Page
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-10-26 at 16 55 01](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/af7ef614-a34a-4aba-82bd-ab467f982a84)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-11-21 at 09 47 08](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/1a012f51-e041-4488-9137-0d84fdccc200)
 
-The settings page currently allows access to the user info and tamagotchi information editing pages. Of these two options, the user information page seen below allows for users to change their own personal information and have it reflected in the app.
+The settings page was turned into a settings dropdown with links to pages where you can edit your personal information, tamagotchi's information, and log out. Both the edit user info and log out button work whie more work has to be done implementing the tamagotchi stats.
 
 ![Simulator Screenshot - iPhone 14 Pro Max - 2023-10-26 at 16 56 38](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/13ddef29-fb9b-472a-8f71-e44861920ed5)
 
-A log out button also exists although this feature will be implemented at a later date.
+
 
 ## Installation
 Download the source code from: <https://github.com/Tamagotchi-Trainer/tamagotchi_trainer>
