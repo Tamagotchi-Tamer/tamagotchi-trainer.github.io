@@ -1,28 +1,43 @@
 # Tamagotchi Tamer Usuability Evaluation
 
 ## User Goals
-* Account Creation/Setup
-* Formatting/UI layout on different devices
-* Purchasing an Item
-* TBD
-
+* Emotional Impact of Tamagotchi
+  * Would a sick tamagotchi motivate you to exercise?
+* Tamagotchi Tamer Fitness vs Current Fitness App
+  * Would you rather use the Tamagotchi Tamer Fitness page or your current fitness app?
+  * What features would need to be added to consider switching from your current fitness app to the tamagotchi tamer app?
+* Likelihood of Buying Cosmetics
+  * Would you consider buying cosmetics for your tamagotchi?
+  * Do you like your tamagotchi more after buying cosmetics?
+  * Which cosmetics are they most likely to buy?
 
 ## Scenarios
 
-#### Scenario 1: Registration
+#### Scenario 1: Tamagotchi States
 
-Prompt: "Please create an account for the Tamagotchi Tamer application"
+The user will first be given a login with a normal tamagotchi and asked to explore the application for about 1 minute. 
 
-This would be the scenario in which we have a completely new user who has just opened the application.
-In this scenario, the user is given the login page and asked to register a new account and upon getting to the homepage after registering, asked to edit their user information.
+After that time is up, the user will be asked to login with a separate account which has a sick tamagotchi and will be asked to explore the app for about 1 minute. 
 
-#### Scenario 2: Purchasing an Item
+If the user at any point asks about the sick tamagotchi and asks about why it is sick and how to make the tamagotchi recover then this would be considered a success. If they do not mention the change in tamagotchi state, this is considered a failure and feedback will be taken on how to make people notice and care about the sick tamagotchi.
 
-Prompt: "Please buy an item from the shop and apply it to your tamagotchi
+
+#### Scenario 2: Reading User Fitness Info
+
+Prompt: "Please go to the Fitness tab and tell me about the current user."
+
+After they retrieve the information about the current user, have them go to their chosen fitness app and give me as much information they can tell me from the app. If they do not have a fitness app or do not want to share their data, my personal device can be used as a default test device using the Apple Health app.
+
+Once they have used both, the user will be asked which features they need in the Tamagotchi Tamer fitness page to consider switching from their current app. Feedback will also be taken on their favorite features in their current fitness app.
+
+
+#### Scenario 3: Purchasing an Item
+
+Prompt: "Please buy your favorite cosmetic from the shop and apply it to your tamagotchi"
 
 In this scenario, the user will be taken through the process of buying an item and applying it to their tamagotchi. Upon finishing the scenario, the user should have a tamagotchi with the given cosmetic on their home screen.
 
-#### Scenario 3: TBD
+Feedback will be taken on their favorite cosmetic item and if they believe that they like the tamagotchi more or less after applying the cosmetic.
 
 
 ## User Types
