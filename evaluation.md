@@ -130,3 +130,7 @@ The scripts will follow the prompts given in the scenarios section above.
 * Gamify the app such as gaining coins daily for healthy tamagotchi
   * See <a href="https://github.com/orgs/Tamagotchi-Trainer/projects/1/views/1?pane=issue&itemId=46858984"> here </a>
 
+
+## <a href="https://tamagotchi-trainer.github.io/"> Home </a>
+
+
