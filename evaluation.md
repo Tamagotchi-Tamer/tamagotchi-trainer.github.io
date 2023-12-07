@@ -55,9 +55,11 @@ For the older generation, I can ask my mother and her friends for a few people. 
 
 For the younger generation, I have a few friends that play similar types of games and would be able to give good feedback. I also think it is important to get people who are unfamiliar with these types of games to test the application. For these people, I will ask around my workplace for people who would be interested in testing the application. I also know a few people in the dorms that might be able to test the app.
 
+
 ## Description of Participants
 
 For the usability evaluation we ran, we had 5 participants. 3 of the 5 participants (A, B, and C) belonged to the older group whereas the remaining two participants (D and E) belonged to the younger group. Everyone who participated in the usability evaluation was familiar with mobile games such as Pokemon Go and Animal Crossing and have been playing continuously for at least one month. For participants A, B, and C their usability evaluations were done individually at my house. Likewise, for participant D their usability evaluation was done at my dorm on campus. For participant E, it was more convenient to do their usability evaluation at the library. For all participants, since they used iPhones, I decided to have them use my phone as the test device since deployment to Apple devices with a developer license is pretty difficult and time consuming. 
+
 
 ## Script
 
@@ -99,9 +101,11 @@ The scripts will follow the prompts given in the scenarios section above.
 * A: Add distance (miles/kilometers) to the bars so that they reflect how far someone walked in a day
 * B: Does not use other fitness apps
   * Upon follow-up they mentioned that they do not track fitness and things like step counts
-* C: Sharing the same concern as user A they mentioned that distance should be added for the step count. They also expressed that users should be able to switch between miles and kilometers based on their preference.
+* C: Sharing the same concern as user A they mentioned that distance should be added for the step count.
+  * They also expressed that users should be able to switch between miles and kilometers based on their preference.
 * D: This user does not use a step tracker but does mention that there should be some kind of integrated widget to show the steps tracked through the app and also maybe show the tamagotchi health
-* E: This user had the same concerns as above users that distance and other exact measurements should be displayed on the fitness page. They also brought up the possibility of time spent above a certain heart rate as a possible measurement of fitness.
+* E: This user had the same concerns as above users that distance and other exact measurements should be displayed on the fitness page.
+  * They also brought up the possibility of time spent above a certain heart rate as a possible measurement of fitness.
 
 #### Scenario 3: Long Term Viability
 
@@ -116,9 +120,13 @@ The scripts will follow the prompts given in the scenarios section above.
 * E: They expressed the feeling that using the app takes away from the time spent exercising. “If I wanted to exercise, I would just go out and exercise. Having so many features takes away from the exercise.”
   * Would not download the app.
 
+
 ## Results
 
 * Set Up a Tamagotchi creation page where you can name your tamagotchi and set various information about it such as it’s birthday.
+  * See <a href="https://github.com/orgs/Tamagotchi-Trainer/projects/1/views/1?pane=issue&itemId=46856442"> here </a>
 * Convert the steps to distance traveled and add it to the fitness page
+  * See <a href="https://github.com/orgs/Tamagotchi-Trainer/projects/1/views/1?pane=issue&itemId=46858203"> here </a>
 * Gamify the app such as gaining coins daily for healthy tamagotchi
+  * See <a href="https://github.com/orgs/Tamagotchi-Trainer/projects/1/views/1?pane=issue&itemId=46858984"> here </a>
 
