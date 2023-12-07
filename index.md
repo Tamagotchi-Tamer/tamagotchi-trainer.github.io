@@ -92,5 +92,9 @@ $ flutter run
 ## Development Status
 The project development board can be found at: <https://github.com/orgs/Tamagotchi-Trainer/projects/1>
 
+## Future of the Project
+
+Currently, user evaluation is being done and we are trying to get a more diverse set of users to test out the application. From the data already collected, various improvements are currently in the works but we are re-thinking our long term development plan. Upon review it seems like the scope of the application might be too big for what users want from this type of app. Consideration is being made into possibly scaling down the app or converting the app into a widget for iOS.
+
 ## About Us
 This project has been created by Derek Nishimura, a senior undergraduate student at the University of Hawaii at Manoa.
