@@ -76,6 +76,9 @@ The settings page was turned into a settings dropdown with links to pages where 
 
 ![Simulator Screenshot - iPhone 14 Pro Max - 2023-10-26 at 16 56 38](https://github.com/Tamagotchi-Trainer/tamagotchi-trainer.github.io/assets/112514272/13ddef29-fb9b-472a-8f71-e44861920ed5)
 
+## Usability Evaluation
+
+A link to the usability evaluation can be found <a href="https://tamagotchi-trainer.github.io/evaluation"> here </a>.
 
 
 ## Installation
