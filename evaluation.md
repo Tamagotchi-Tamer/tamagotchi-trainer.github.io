@@ -6,38 +6,39 @@
 * Tamagotchi Tamer Fitness vs Current Fitness App
   * Would you rather use the Tamagotchi Tamer Fitness page or your current fitness app?
   * What features would need to be added to consider switching from your current fitness app to the tamagotchi tamer app?
-* Likelihood of Buying Cosmetics
-  * Would you consider buying cosmetics for your tamagotchi?
-  * Do you like your tamagotchi more after buying cosmetics?
-  * Which cosmetics are they most likely to buy?
+* Long-Term Playability of the Application
+  * Would you consider playing this app in the long run?
+  * What features would this app need to have to make you consider playing long-term?
 
 ## Scenarios
 
-#### Scenario 1: Tamagotchi States
+#### Scenario 1: Emotional Impact of the Tamagotchi
 
 The user will first be given a login with a normal tamagotchi and asked to explore the application for about 1 minute. 
 
 After that time is up, the user will be asked to login with a separate account which has a sick tamagotchi and will be asked to explore the app for about 1 minute. 
 
-If the user at any point asks about the sick tamagotchi and asks about why it is sick and how to make the tamagotchi recover then this would be considered a success. If they do not mention the change in tamagotchi state, this is considered a failure and feedback will be taken on how to make people notice and care about the sick tamagotchi.
+If the user at any point asks about the sick tamagotchi and asks about why it is sick and how to make the tamagotchi recover then this would be considered a success. If they do not mention the change in tamagotchi state, this is considered a failure and feedback will be taken on how to make people notice and care about the sick tamagotchi. Should the user notice the change in the tamagotchi and not care then this will also be considered a failure.
+
+After this test is completed we will have the user provide their thoughts on the sick tamagotchi and if it would motivate them to exercise.
 
 
 #### Scenario 2: Reading User Fitness Info
 
-Prompt: "Please go to the Fitness tab and tell me about the current user."
+Please open your preferred fitness/step app and tell me about the app and how you use it. If they do not have a preferred fitness app, have them open and run through their device's default fitness app.
 
-After they retrieve the information about the current user, have them go to their chosen fitness app and give me as much information they can tell me from the app. If they do not have a fitness app or do not want to share their data, my personal device can be used as a default test device using the Apple Health app.
+Once they have gone through their fitness app, the user will them be asked to log into the Tamagotchi Tamer fitness app and be asked to navigate to our fitness section.
 
-Once they have used both, the user will be asked which features they need in the Tamagotchi Tamer fitness page to consider switching from their current app. Feedback will also be taken on their favorite features in their current fitness app.
+Feedback will be taken on what features they most want to use/see in our app that is present in their preferred fitness app.
 
 
-#### Scenario 3: Purchasing an Item
+#### Scenario 3: Assessing Long Term Playability of the Application
 
-Prompt: "Please buy your favorite cosmetic from the shop and apply it to your tamagotchi"
+In this scenario, we will have the user go to an app of their choice which they have used/played consistently (daily/weekly) for over a month. Once on the app, the user will be asked to walk through their daily routine with the application. 
 
-In this scenario, the user will be taken through the process of buying an item and applying it to their tamagotchi. Upon finishing the scenario, the user should have a tamagotchi with the given cosmetic on their home screen.
+After they finish, we will then move to the Tamagotchi Tamer app where we will ask questions in regards to features they would like to see implemented in our app. Specifically, we would ask about any features that would keep them invested in our app for more than a month.
 
-Feedback will be taken on their favorite cosmetic item and if they believe that they like the tamagotchi more or less after applying the cosmetic.
+Once we go through both their preferred app and the Tamagotchi Tamer app, they will be given the question: "Would you download our app?". Response will then be recorded based off their answer.
 
 
 ## User Types
