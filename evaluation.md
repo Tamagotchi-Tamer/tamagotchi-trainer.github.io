@@ -55,3 +55,70 @@ For the older generation, I can ask my mother and her friends for a few people. 
 
 For the younger generation, I have a few friends that play similar types of games and would be able to give good feedback. I also think it is important to get people who are unfamiliar with these types of games to test the application. For these people, I will ask around my workplace for people who would be interested in testing the application. I also know a few people in the dorms that might be able to test the app.
 
+## Description of Participants
+
+For the usability evaluation we ran, we had 5 participants. 3 of the 5 participants (A, B, and C) belonged to the older group whereas the remaining two participants (D and E) belonged to the younger group. Everyone who participated in the usability evaluation was familiar with mobile games such as Pokemon Go and Animal Crossing and have been playing continuously for at least one month. For participants A, B, and C their usability evaluations were done individually at my house. Likewise, for participant D their usability evaluation was done at my dorm on campus. For participant E, it was more convenient to do their usability evaluation at the library. For all participants, since they used iPhones, I decided to have them use my phone as the test device since deployment to Apple devices with a developer license is pretty difficult and time consuming. 
+
+## Script
+
+#### Introduction
+
+“Thank you for helping out with the usability testing for the Tamagotchi Tamer mobile app”
+
+“Before starting, please know that your responses will be recorded for the purpose of improving the app. If you understand this, please read and sign this form indicating that you give consent for your responses to be recorded.”
+
+#### Information Collecting and Setup
+
+* “Do you have any experience with mobile games?” “Do you have any mobile games that you play everyday?” “Have you ever had a tamagotchi before?”
+  * Might follow up depending on their answers to the questions.
+* “What type of device do you currently use? (iPhone vs Android)?”
+  * Depending on their answer we will either deploy the app to their phone (if they have Android) or have them use my personal device (iPhone).
+* “For this test, we will walk you through three scenarios that we will go into later. Please provide honest and in depth feedback for the scenarios.”
+
+#### Scenarios
+
+The scripts will follow the prompts given in the scenarios section above.
+
+## Data Collected
+
+#### Scenario 1: Emotional Impact of the Tamagotchi
+
+* A: They expressed that they wanted more investment into creating their tamagotchi if they were to have an emotional bond with their tamagotchi
+  * Noticed that the tamagotchi was sick and did ask why it is sick
+* B: They were undecided if the tamagotchi would motivate them to exercise.
+  * They did notice the tamagotchi was sick and asked why it was sick but upon further follow up expressed doubts about if the tamagotchi would motivate them
+* C: They seemed surprised that the tamagotchi was sick and asked how to make it better.
+  * For this user, the tamagotchi would motivate them to walk more but they did express that more investment into tamagotchi creation would make them care more.
+* D: They did notice that the tamagotchi was sick but laughed.
+  * Upon further questioning they mentioned that this would not motivate them to exercise.
+* E: They also noticed that the tamagotchi was different and asked what was different.
+  * Upon follow-up they mentioned that they would not exercise because it looks like the tamagotchi was sleeping/being lazy.
+
+#### Scenario 2: Fitness Page
+
+* A: Add distance (miles/kilometers) to the bars so that they reflect how far someone walked in a day
+* B: Does not use other fitness apps
+  * Upon follow-up they mentioned that they do not track fitness and things like step counts
+* C: Sharing the same concern as user A they mentioned that distance should be added for the step count. They also expressed that users should be able to switch between miles and kilometers based on their preference.
+* D: This user does not use a step tracker but does mention that there should be some kind of integrated widget to show the steps tracked through the app and also maybe show the tamagotchi health
+* E: This user had the same concerns as above users that distance and other exact measurements should be displayed on the fitness page. They also brought up the possibility of time spent above a certain heart rate as a possible measurement of fitness.
+
+#### Scenario 3: Long Term Viability
+
+* A: Needs more investment into the tamagotchi to consider long term investment
+  * Would not download the app if they had the option
+* B: They expressed the need for daily incentives to keep your pet healthy. The specific example they brought up was getting coins daily for keeping your pet healthy and getting less/no coins for a sick pet.
+  * Would not download the app
+* C: Mentioned that there should be some way to earn coins for free to buy cosmetics for their tamagotchi.
+  * Would download the app.
+* D: For long term usability, this user mentioned that they wanted some way to interact with friends through the app. Forming parties or other team based activities would help them stay invested in the app.
+  * Would not download the app.
+* E: They expressed the feeling that using the app takes away from the time spent exercising. “If I wanted to exercise, I would just go out and exercise. Having so many features takes away from the exercise.”
+  * Would not download the app.
+
+## Results
+
+* Set Up a Tamagotchi creation page where you can name your tamagotchi and set various information about it such as it’s birthday.
+* Convert the steps to distance traveled and add it to the fitness page
+* Gamify the app such as gaining coins daily for healthy tamagotchi
+
